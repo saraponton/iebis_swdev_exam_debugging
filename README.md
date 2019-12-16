@@ -53,16 +53,15 @@ Scoring criteria:
 
 There are 3 bugs left in the code once you change the first one adding \\
 
-####First Bug
-When you use __random__, you have to set the upper limit to one number higher than you want it to work. 
+### First Bug
+When you use *random*, you have to set the upper limit to one number higher than you want it to work. 
 If not, the program will never reach it. I changed it from 2 to 3. 
 
-#### Second Bug
+### Second Bug
 
 The second bug was that the letters you wanted to use were in a character form an not a string. The program
-can't work if you input a character so I changed
-it from 'Y' to "Y" and the problem was solved. 
+can't work if you input a character so I changed it from 'Y' to "Y" and the problem was solved. 
 
-####Third Bug
+### Third Bug
 
 
