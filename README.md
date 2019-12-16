@@ -59,10 +59,9 @@ If not, the program will never reach it. I changed it from 2 to 3.
 
 ### Second Bug
 
-The second bug was that the letters you wanted to use were in a character form an not a string. The program
-can't work if you input a character so I changed it from 'Y' to "Y" and the problem was solved. 
+The second bug was that a break was needed after each case.
 
 ### Third Bug
 
-The third bug was that a break was needed after each case to stop it from running and allowing the next one to work. 
-
+The third bug was that the letters you wanted to use were in a character form an not a string. The program
+can't work if you input a character so I changed it from 'Y' to "Y" and the problem was solved. 
