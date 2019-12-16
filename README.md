@@ -51,7 +51,7 @@ Scoring criteria:
 
 ## Bugs
 
-There are 3 bugs left in the code once you change the first one adding \\
+There are 3 bugs left in the code once you change the first one adding " \\\" before the dot. Than will solve the problem of replacing everything with /.
 
 ### First Bug
 When you use *random*, you have to set the upper limit to one number higher than you want it to work. 
@@ -64,4 +64,5 @@ can't work if you input a character so I changed it from 'Y' to "Y" and the prob
 
 ### Third Bug
 
+The third bug was that a break was needed after each case to stop it from running and allowing the next one to work. 
 
